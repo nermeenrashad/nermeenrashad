@@ -1,16 +1,26 @@
-## Hi there 👋
+# Nermeen Rashad
 
-<!--
-**nermeenrashad/nermeenrashad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Computer Science and Artificial Intelligence student at Minia National University (Class of 2027). Focused on Machine Learning, Deep Learning, and Computer Vision, with practical experience in building and deploying end-to-end data-driven applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming Languages:** Python, C++, Java, C#, MATLAB, JavaScript, HTML/CSS
+- **AI & Data Science:** TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, NLTK, SpaCy
+- **Web & Tools:** Streamlit, React, Node.js, Git, GitHub
+
+---
+
+## Featured Projects
+
+- **Churn Prediction Project:** Machine learning classification pipeline for customer retention analysis.
+- **Machine Learning Projects:** End-to-end ML workflow implementations including data preprocessing, model training, and evaluation.
+
+---
+
+## Contact & Links
+
+- **LinkedIn:** https://www.linkedin.com/in/nermeen-rashad
+- **Email:** nermeenrashad54321@gmail.com
